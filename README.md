@@ -1,7 +1,7 @@
-# ETHGlobal Buenos Aires 2025 zkx402 - x402 protocol extension
+# ZKSOLV - PRIVACY ZERO KNOWLEDGE
 
 ## Summary
-zkx402 is a protocol extension that integrates Zero-Knowledge proofs into x402, enabling verified variable payments and verifiable content metadata.
+ZKSOLV is a protocol extension that integrates Zero-Knowledge proofs into x402, enabling verified variable payments and verifiable content metadata.
 
 Consumers (humans or AI agents) gain variable pricing, with eligiblility verified with zkproofs.
 Producers can prove the providence of their content by attaching zkproofs. e.g. confirmed authorship by a specific journalist, proof of human creation, IoT data with GPS/sensor details.
@@ -16,7 +16,7 @@ There is also impact use cases, where a deep-cover journalist sell sensitive pri
 Then more future looking, is making content purchasable by an growing automomous AI ecosystem who may perform their tasks better if it had unique verified primary source data.
 
 ## High-level abstract & value proposition
-![zkx402 new flow](zkx402-protocol-flow-white-background-v3.png)
+!ZKSOLV new flow]
 ### Consumers (Journalists & AI Agents)
 - Variable pricing based on verified identity (50% discount for verified parties)
 - Eligibility proven via zkproofs, no trusted third party needed
@@ -124,8 +124,4 @@ npm run dev:client
 open server in terminal
 ```
 
-## Demo movie
-https://youtu.be/kEA0Jhq6qjM
 
-## Demo site
-https://zkx402.io
