@@ -63,7 +63,7 @@ This creates the missing economic layer for truth.
 - Charts: Recharts
 - Icons: Lucide React
 
-### zkx402 payment
+### ZKSOLV payment
 - Frontend: Next.js 14 + React + TypeScript
 - Wallet & Auth: Coinbase CDP (Embedded Wallet with email/SMS/OAuth login)
 - Payments:
